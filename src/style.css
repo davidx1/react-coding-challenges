@@ -1,0 +1,9 @@
+body {
+  max-width: 1080px;
+  margin: auto;
+  padding: 32px;
+}
+
+hr {
+  border-color: #d1d1d1
+}
